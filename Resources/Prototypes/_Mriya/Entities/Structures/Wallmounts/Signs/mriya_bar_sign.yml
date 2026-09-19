@@ -1,16 +1,16 @@
 - type: entity
   parent: BaseBarSign
   id: BarSignDrunkCherry
-  name: П'яна вишня
-  description: Фірмова космічна наливка, зроблена з найсолодших вишеньок в усій галактиці!
+  name: barsign-prototype-name-drunk-cherry
+  description: barsign-prototype-description-cherry
   components:
   - type: BarSign
     current: DrunkCherry
 
 - type: barSign
   id: DrunkCherry
-  name: П'яна вишня
+  name: barsign-prototype-name-drunk-cherry
   icon: 
     sprite: _Mriya/Structures/Wallmounts/barsign.rsi
     state: drunkcherry
-  description: Фірмова космічна наливка, зроблена з найсолодших вишеньок в усій галактиці!
+  description: barsign-prototype-description-cherry
